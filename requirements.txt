@@ -1,0 +1,5 @@
+gtts
+translate
+pyaudio
+speech_recognition
+os_sys
